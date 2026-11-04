@@ -1,16 +1,30 @@
-## Hi there 👋
 
-<!--
-**DanilaMash/DanilaMash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Danila! 👋
+💬 For communication  
+[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram&logoColor=white)](https://t.me/vibeOptimist)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ✨ **About me**
+🌍 A beginner in development from Russia.  
+💻 I know the Python programming language.  
+🚀 I study web technologies (HTML, CSS, JavaScript)
+
+---
+
+### 🛠 **Languages**
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+
+---
+
+## 🔥 **Projects**
+### [RayLauncher](https://github.com/vibeOptimist/RayLauncher)
+✅ **Free Minecraft Launcher** (My pet project)  
+✅ **Built with love and Python**
+
+---
+
+### 📊 **GitHub Stats**
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=iSoloCoder&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iSoloCoder&theme=default)
