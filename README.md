@@ -26,5 +26,5 @@
 ---
 
 ### 📊 **GitHub Stats**
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=iSoloCoder&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iSoloCoder&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DanilaMash&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DanilaMash&theme=default)
